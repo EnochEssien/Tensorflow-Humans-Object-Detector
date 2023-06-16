@@ -30,7 +30,7 @@ To run the Object Detection Script, all you'd have to do is simply download this
 
 ***PipelinePATH*** : this points to the "pipeline.config" file seen in the folder in this project
 
-***ModelPATH*** : this points to the model folder seen in this project, "HumanDetectorV1"
+***ModelPATH*** : this points to the model folder seen in this project, the "saved_model" folder seen in the "HumanDetectorV1" folder
 
 ***LabelMapPATH*** : this points to the text file containing the classes of the detector seen in the folder in this project, "Humans_label_map.pbtxt"
 
